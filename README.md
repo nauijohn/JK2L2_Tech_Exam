@@ -7,8 +7,8 @@ endpoints:
 
 baseUrl: http://localhost:3000
 
-GET baseUrl/
-GET baseUrl/id
-POST baseUrl
-PUT baseUrl/id
-DELETE baseUrl/id
+### GET baseUrl/
+### GET baseUrl/id
+### POST baseUrl
+### PUT baseUrl/id
+### DELETE baseUrl/id
